@@ -1,6 +1,6 @@
 # <div align="center">Facial recognition camera for small retail</div>
 
-[![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/Face_Mask_Detection_end_to_end_project/blob/master/LICENSE)
+[![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/Facial-recognition-camera-for-small-retail/blob/master/LICENSE)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=4D4DFF)](https://www.linkedin.com/in/ashishk766/)
 
 ## Motivation
