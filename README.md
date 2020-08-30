@@ -1,8 +1,5 @@
 # <div align="center">Facial recognition camera for small retail</div>
-```
-Anyone to colabrate in this project?
-please contact me...
-```
+
 [![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/Facial-recognition-camera-for-small-retail/blob/master/LICENSE)
 
 ## Motivation
