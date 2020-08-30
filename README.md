@@ -9,8 +9,6 @@
 <div align="center"><img src="./ReadmeImage/Project.png"></div>
 
 ### <u>Problem statement</u> 
-There is the need for facial recogination cameras. Customer cameras are basic cameras and they want the ability for them to scan face automatically in a croud of people (like restaurant and bar).
-So, the camera must scan faces in the crowd and recognize them in a database that they can then have access to and be able to add notes to.
-
+There is a need for facial recognition cameras. Customer cameras are basic cameras and they want the ability for them to scan face automatically in a crowd of people (like restaurant and bar). So, the camera must scan faces in the crowd and recognize them in a database that they can then have access to and be able to add notes to.
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=4D4DFF)](https://www.linkedin.com/in/ashishk766/)
