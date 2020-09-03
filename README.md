@@ -14,7 +14,7 @@ There is a need for facial recognition cameras. Customer cameras are basic camer
 ### Technology planned to implement
 - Python / Julia / Matlab
 - AWS
-- IOT
+- IOT(Raspberry Pi)
 - Flutter
 
 ## Contact
