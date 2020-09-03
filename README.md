@@ -17,9 +17,7 @@ There is a need for facial recognition cameras. Customer cameras are basic camer
 - Flutter                 : Mobile application development
 - IOT(Raspberry Pi)       : For demonstration
 
-| |
-|---|
-|<div align="center"><img src="./ReadmeImage/Technology.png"></div>|
+<div align="center"><img src="./ReadmeImage/Technology.png"></div>
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=4D4DFF)](https://www.linkedin.com/in/ashishk766/)
