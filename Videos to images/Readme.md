@@ -1,5 +1,7 @@
 # Python package to extract the images from the videos
 
+[![MIT License](https://img.shields.io/github/license/ashishcssom/Face_Mask_Detection_end_to_end_project.svg?style=flat-square&colorB=C62121)](https://github.com/ashishcssom/Facial-recognition-camera-for-small-retail/blob/master/Videos%20to%20images/License)
+
 ## Directory architecture
 ```
 C:.
