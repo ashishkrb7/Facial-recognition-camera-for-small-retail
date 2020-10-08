@@ -12,15 +12,15 @@
 There is a need for facial recognition cameras. Customer cameras are basic cameras and they want the ability for them to scan face automatically in a crowd of people (like restaurant and bar). So, the camera must scan faces in the crowd and recognize them in a database that they can then have access to and be able to add notes to.
 
 ### Technology planned to implement
-- Python / Julia / Matlab : For AI modeling
-- AWS                     : Storage and hosting
-- Flutter                 : Mobile application development
-- IOT(Raspberry Pi)       : For demonstration
+- **Python** / Julia / Matlab : For AI modeling
+- **AWS**                     : Storage and hosting
+- **Flutter**                 : Mobile application development
+- **IOT(Raspberry Pi)**       : For demonstration
 
 <div align="center"><img src="./ReadmeImage/Technology.png"></div>
 
 ### Progress
-- [x] Python code developement for extracting images from vedios
+- [x] Python code development for extracting images from vedios
 - [x] [Selection of face detection model](https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c)
 
 ## Contact
