@@ -1,0 +1,1 @@
+This folder contains the codes to check different models efficiency for face identification
