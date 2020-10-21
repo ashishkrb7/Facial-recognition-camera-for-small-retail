@@ -20,8 +20,8 @@ There is a need for facial recognition cameras. Customer cameras are basic camer
 <div align="center"><img src="./ReadmeImage/Technology.png"></div>
 
 ### Progress
-- [ ] Python code development for extracting images from vedios
-- [ ] [Selection of face detection model](https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c)
+* [ ] Python code development for extracting images from vedios
+* [ ] [Selection of face detection model](https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c)
 
 ## Contact
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=4D4DFF)](https://www.linkedin.com/in/ashishk766/)
