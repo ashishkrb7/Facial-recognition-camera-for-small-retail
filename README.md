@@ -21,7 +21,7 @@ There is a need for facial recognition cameras. Customer cameras are basic camer
 
 ### Progress
 * [x] Python code development for extracting images from vedios
-* [] [Selection of face detection model](https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c)
+* [ ] [Selection of face detection model](https://towardsdatascience.com/face-detection-models-which-to-use-and-why-d263e82c302c)
 * [x] Integrating Face AI model to project
 * [x] xml to csv converter added
 
